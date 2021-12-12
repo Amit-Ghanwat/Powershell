@@ -1,0 +1,1 @@
+﻿robocopy 'C:\Users\Amitg\Downloads\Linux' 'C:\Ansible' vm1 /r
